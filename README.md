@@ -1,5 +1,6 @@
 # 	CNN Inplementation With Numpy
 #
+#
 ​	复习深度学习相关知识。打算用numpy实现一个简单的可以训练，测试的cnn框架（model-free，model-based），包含一些主流的层和设计，以便复习与巩固基础。
 
 
